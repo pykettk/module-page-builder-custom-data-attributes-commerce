@@ -10,6 +10,7 @@
     <module name="Element119_PageBuilderCustomDataAttributesCommerce">
         <sequence>
             <module name="Element119_PageBuilderCustomDataAttributes"/>
+            <module name="Magento_BannerPageBuilder"/>
         </sequence>
     </module>
 </config>
