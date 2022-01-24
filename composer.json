@@ -1,0 +1,25 @@
+{
+    "name": "element119/module-page-builder-custom-data-attributes-commerce",
+    "type": "magento2-module",
+    "description": "A Magento 2 module that allows custom data to be added to Commerce-specific Page Builder content.",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Kiel Pykett",
+            "email": "pykettk@gmail.com"
+        }
+    ],
+    "require": {
+        "dotmailer/dotmailer-magento2-extension-enterprise": "^1.4",
+        "element119/module-page-builder-custom-data-attributes": "^1.0",
+        "magento/module-banner-page-builder": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Element119\\PageBuilderCustomDataAttributesCommerce\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
