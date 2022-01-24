@@ -101,7 +101,7 @@ An expanded XML tree is shown below to serve as an example.
 <br/>
 
 ## 📚 User Guide
-Coming soon :)
+![full](https://user-images.githubusercontent.com/40261741/150883763-720917f3-ba61-424a-b235-f26437da9f95.png)
 
 ---
 
