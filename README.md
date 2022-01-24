@@ -20,6 +20,12 @@
 ---
 
 ## 🤝 Compatibility
+For Magento Open Source, install
+[`element119/module-page-builder-custom-data-attributes`](https://github.com/pykettk/module-page-builder-custom-data-attributes)
+instead.
+
+<br>
+
 This module is an Adobe Commerce compatible version of 
 [`element119/module-page-builder-custom-data-attributes`](https://github.com/pykettk/module-page-builder-custom-data-attributes).
 It adds support for the additional Page Builder content types added by Commerce-only modules. This currently includes:
@@ -27,6 +33,11 @@ It adds support for the additional Page Builder content types added by Commerce-
 - `Dotdigitalgroup_Enterprise`
 
 - `Magento_BannerPagBuilder`
+
+<br>
+
+Installing this module on Magento Open Source results in errors being thrown due to the modifications that target the
+Commerce-only content types.
 
 <br>
 
