@@ -9,6 +9,7 @@
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Element119_PageBuilderCustomDataAttributesCommerce">
         <sequence>
+            <module name="Dotdigitalgroup_Enterprise"/>
             <module name="Element119_PageBuilderCustomDataAttributes"/>
             <module name="Magento_BannerPageBuilder"/>
         </sequence>
