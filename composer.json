@@ -10,7 +10,6 @@
         }
     ],
     "require": {
-        "dotmailer/dotmailer-magento2-extension-enterprise": "^1.4",
         "element119/module-page-builder-custom-data-attributes": "^1.0",
         "magento/module-banner-page-builder": "*"
     },
